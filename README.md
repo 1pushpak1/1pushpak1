@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
-
+<br/>
 ### <div align="center">I'm Pushpak 🚀</div>  
 
 - 🔭 I’m currently working on my coding skills  
@@ -66,6 +66,7 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) 
 <br/>
+<br/>
 
 
 ## Connect with me  
@@ -87,6 +88,7 @@
   
 
 <br/>  
+<br/>
 
 
 ## Github Stats  
