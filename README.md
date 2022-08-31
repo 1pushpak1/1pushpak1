@@ -8,14 +8,14 @@
 - 🔭 I’m currently working on my coding skills  
   
 
-- 🌱 I’m currently learning CPP  
+- 🌱 I’m currently working on DSA
   
 
 - ❓ Ask me about anything related to my domian, I am always 
       ready  
   
 
-- 🔍 Reach me at: ✉️ pushpakkumawat@gmail.com  
+- 🔍 Reach me at: ✉️ pushpakkumawat20028@gmail.com  
   
 
 <br/>  
