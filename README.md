@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my coding skills  
   
 
-- 🌱 I’m currently working on DSA
+- 🌱 I’m currently working on AIML
   
 
 - ❓ Ask me about anything related to my domian, I am always 
