@@ -52,8 +52,9 @@
 <a href="https://www.instagram.com/_pushpak_k_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
+<a href="https://pushpak-is-a.dev/" target="_blank">
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />  
+</a>
 <br/>  
 <br/>
 
@@ -71,7 +72,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>    
 <br />
-![](https://visitcount.itsvg.in/api?id=1pushpak1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=1pushpak1&icon=0&color=0)]
 <br/>
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
-----
+
