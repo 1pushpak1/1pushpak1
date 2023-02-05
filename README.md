@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Neural Networks  
   
 
-- 🌱 I’m currently working on AIML
+- 🌱 I’m currently learning Artifical Intelegence and Machine Learning
   
 
 - ❓ Ask me about anything related to my domian, I am always 
