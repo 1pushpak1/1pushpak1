@@ -67,7 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1pushpak1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![snake gif](https://raw.githubusercontent.com/Drish-xD/Drish-xD/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/1pushpak11pushpak1/output/github-contribution-grid-snake.svg)
 
 <br/>    
 <br />
@@ -81,7 +81,7 @@
 
 
 ## Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/1pushpak1/count.svg)
 
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
 
