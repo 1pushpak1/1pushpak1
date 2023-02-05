@@ -5,7 +5,7 @@
 
 ## <div align="center">I'm Pushpak 🚀 | CS UNDERGRADUATE</div>  
 
-- 🔭 I’m currently working on my coding skills  
+- 🔭 I’m currently working on Neural Networks  
   
 
 - 🌱 I’m currently working on AIML
@@ -15,7 +15,7 @@
       ready  
   
 
-- 🔍 Reach me at: ✉️ pushpakkumawat20028@gmail.com  
+- 🔍 Reach me at: ✉️ pushpak.kumawat08@gmail.com  
   
 
 <br/>  
@@ -68,10 +68,6 @@
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/>    
-<br />
-## Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <br/>    
 <br />
 
