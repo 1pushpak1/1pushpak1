@@ -74,8 +74,7 @@
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/>    
-<br/>
+
 ## Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/1pushpak1/count.svg)
 
