@@ -72,7 +72,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>    
 <br />
-[![](https://visitcount.itsvg.in/api?id=1pushpak1&icon=0&color=0)](https://visitcount.itsvg.in)
 <br/>
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
 
