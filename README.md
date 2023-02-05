@@ -15,7 +15,11 @@
       ready  
   
 
-- 🔍 Reach me at: ✉️ pushpak.kumawat08@gmail.com  
+- 🔍 Reach me at: ✉️ pushpak.kumawat08@gmail.com
+- 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
+---
   
 
 <br/>  
@@ -63,7 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1pushpak1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1pushpak1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![snake gif](https://raw.githubusercontent.com/Drish-xD/Drish-xD/output/github-contribution-grid-snake.svg)
 
 <br/>    
 <br />
@@ -73,5 +77,11 @@
 <br/>    
 <br />
 <br/>
+
+
+
+## Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
+
 <div align="center"><img src=http://ForTheBadge.com/images/badges/built-with-love.svg />
 
