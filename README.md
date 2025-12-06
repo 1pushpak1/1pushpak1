@@ -3,12 +3,9 @@
 </div> 
 <br/>
 
-## <div align="center">I'm Pushpak 🚀 | CS UNDERGRADUATE</div>  
+## <div align="center">I'm Pushpak </div>  
 
 - 🔭 I’m currently working on Neural Networks  
-  
-
-- 🌱 I’m currently learning Artifical Intelegence and Machine Learning
   
 
 - ❓ Ask me about anything related to my domian, I am always 
